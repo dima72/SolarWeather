@@ -1,0 +1,20 @@
+object DataMod: TDataMod
+  Height = 364
+  Width = 551
+  object FDConnection: TFDConnection
+    Params.Strings = (
+      'Database=sakila'
+      'User_Name=ehr'
+      'Password=12345'
+      'Server=192.168.1.70'
+      'DriverID=MySQL')
+    LoginPrompt = False
+    Left = 176
+    Top = 80
+  end
+  object FDQuery: TFDQuery
+    Connection = FDConnection
+    Left = 320
+    Top = 88
+  end
+end

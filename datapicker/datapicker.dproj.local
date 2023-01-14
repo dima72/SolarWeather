@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/12/07 10:54:53.000.238,=C:\Users\pc-user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/15 19:29:38.000.697,=C:\Users\pc-user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/15 19:51:04.000.457,C:\Projects\SolarWeather\datapicker\datapicker.dproj=C:\Users\pc-user\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/12/15 19:52:30.000.289,=C:\Projects\SolarWeather\datapicker\Unit1.pas</Transaction>
+    <Transaction>2022/12/15 19:52:54.000.240,C:\Projects\SolarWeather\datapicker\DataModule.pas=C:\Projects\SolarWeather\datapicker\Unit1.pas</Transaction>
+    <Transaction>2022/12/15 19:52:54.000.240,C:\Projects\SolarWeather\datapicker\DataModule.dfm=C:\Projects\SolarWeather\datapicker\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
